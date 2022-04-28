@@ -1,0 +1,7 @@
+aplikasi daftar Belanja v 0.1 (beta) merupakan aplikasi dengan fitur yang
+sederhana dan mendasar yang ditulis menggunakan bahasa pemrograman python3
+aplikasi ini bersifat opensource dan digunakan untuk metode pembelajaran mengenai
+membaca dan menulis file menggunakan pyhton
+
+                                                            website:pesonainformatika.com
+                                                            author :rijaluddin

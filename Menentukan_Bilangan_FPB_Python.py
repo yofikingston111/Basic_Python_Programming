@@ -11,14 +11,6 @@ def hitung_fpb(x,y):
     return fpb
 
 
-num_input1 = 96
-num_input2 = 24
-
-
-
-print("FPB Dari {} dan {} = {}".format(num_input1, num_input2, hitung_fpb(num_input1, num_input2)))
-
-
 num_input1 = int(input('Masukkan Angka Pertama: '))
 num_input2 = int(input('Masukkan Angka Kedua: '))
 
